@@ -1,0 +1,20 @@
+.sobre-container {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 5px #284c81;
+    border: 1px solid black;
+}
+
+.sobre-image {
+    width: 900px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+  
+.sobre-text {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

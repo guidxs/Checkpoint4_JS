@@ -1,0 +1,27 @@
+.produto-container {
+    display: flex; 
+    justify-content: space-between; 
+}
+
+.produto-item {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    max-width: 500px;
+    margin-bottom: 265px;
+}
+
+.produto-item p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+  
+.produto-item img {
+    height: 300px;
+    width: 400px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}

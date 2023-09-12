@@ -1,0 +1,26 @@
+.home-container {
+    text-align: center;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #000000;
+    box-shadow: 0 0 5px #284c81;
+}
+  
+.home-h1 {
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+}
+  
+.home-p {
+    margin-top: 20px;
+    font-size: 15px;
+    line-height: 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: #dddddd;
+}
